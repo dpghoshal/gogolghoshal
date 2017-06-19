@@ -18,5 +18,5 @@ Gogol tries to maintain a minimalist lifestyle.
 Yes, that means he secretly gets a little annoyed every time someone gifts him something. <br>
 [But if you still insist on giving him something, maybe a good ebook ([DRM-free](http://www.defectivebydesign.org/what_is_drm_digital_restrictions_management), of course) is your best option.]
 
-Gogol likes to think that someday he would have enough money to travel around the globe.  
+Gogol likes to think that someday he would have enough money to travel around the globe. <br><br>
 
