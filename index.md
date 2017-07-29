@@ -12,7 +12,7 @@ layout: default
 
 Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/gogolghoshal/bengali-fiction), mostly).
 
-Gogol also likes to note down his random thoughts in his [blog](/archive).  
+Gogol also likes to note down his random thoughts in his [blog](/gogolghoshal/archive).  
 [You can follow [@gogolghoshal](https://twitter.com/gogolghoshal) or like [Gogol Ghoshal](https://www.facebook.com/GogolGhoshal) to hear about new posts.]
 
 Gogol is a hardcore foodie and a cinephile. (He’s also a Quentin Tarantino fan, and has only pity for those who don’t like QT movies.)
