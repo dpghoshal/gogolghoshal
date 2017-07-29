@@ -32,4 +32,6 @@ layout: default
 
 Follow [@gogolghoshal](https://twitter.com/gogolghoshal) on Twitter or like [Gogol Ghoshal](https://www.facebook.com/GogolGhoshal) on Facebook for blog (& other) updates
 
+* * *
+
 [Back](./)
