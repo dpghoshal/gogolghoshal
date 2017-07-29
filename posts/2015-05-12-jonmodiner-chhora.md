@@ -159,4 +159,4 @@ disqus: y
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
