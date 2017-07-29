@@ -1,9 +1,11 @@
 ---
-title: Stop Smileying
 layout: default
 dsq_thread_id: 2641395044
 disqus: y
 ---
+
+## Stop Smileying
+
 First, a quick survey. How many smileys do you use? How frequently? How many types? If the number is greater than 3, then congratulations! You have higher emotional quotient than most of the online population.
 
 “Our emotional range is dictated by the number of smileys available”
