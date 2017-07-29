@@ -4,9 +4,11 @@ layout: default
 
 ## Gogol
 
-<img src="/gogolghoshal/images/GG_foreground.png"
+<p align="center">
+  <img src="/gogolghoshal/images/GG_foreground.png"
      alt="" 
      width="50%">
+</p>
 
 Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/bengali-fiction), mostly).
 
