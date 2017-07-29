@@ -31,4 +31,4 @@ So that&#8217;s it. I am jumping ship. Facebook might not be a sinking boat, but
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
