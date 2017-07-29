@@ -4,8 +4,11 @@ layout: default
 
 ## Blog
 
+[**এমন দিনে তবে লেখা যায়**](posts/2017-05-31-emono-diney.md)  
+31 May 2017  
+
 [**আমি, স্যার ও চিত্রগুপ্ত**](posts/2016-01-15-chitrogupto.md)  
-15 January 2016
+15 January 2016  
 
 [**শূন্য কে, জন্মদিনে**](posts/2015-11-12-shunyo-publication.md)  
 12 November 2015  
