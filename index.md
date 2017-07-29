@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Gogol
+## Gogol
 
 <p align="center">
   <img src="/gogolghoshal/images/GG_foreground.png"
