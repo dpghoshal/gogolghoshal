@@ -4,11 +4,11 @@ layout: default
 
 ## Blog
 
-###### [\_Bengali\_ Bilet - Dwitiyo Kisti](posts/2014-09-28-bilet-second.md)
+[**\_Bengali\_ Bilet - Dwitiyo Kisti**](posts/2014-09-28-bilet-second.md)
 28 September 2014
-###### [\_Bengali\_ Bilet - Prothom Kisti](posts/2014-09-10-bilet-first.md)
+[**\_Bengali\_ Bilet - Prothom Kisti**](posts/2014-09-10-bilet-first.md)
 10 September 2014
-###### [\_Bengali\_ Ei hoechhe bhalo](posts/2014-08-20-announce-bengali.md)
+[**\_Bengali\_ Ei hoechhe bhalo**](posts/2014-08-20-announce-bengali.md)
 20 August 2014
 ###### [My always-up-to-date guide to reinstalling Fedora](posts/2014-05-17-my-always-up-to-date-guide-to-reinstalling-fedora.md)
 17 May 2014
