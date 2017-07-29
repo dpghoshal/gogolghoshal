@@ -14,4 +14,4 @@ So here it is: <br>
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
