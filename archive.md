@@ -4,7 +4,7 @@ layout: default
 
 ## Posts
 
-###### [Stop Smileying](gogolghoshal/posts/2011-05-04-stop-smileying.md)
+###### [Stop Smileying](posts/2011-05-04-stop-smileying.md)
 04 May 2011
 ###### What if I paid all your bills?
 17 June 2011
