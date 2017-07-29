@@ -28,4 +28,4 @@ See you in the comments!
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
