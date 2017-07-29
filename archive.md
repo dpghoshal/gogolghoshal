@@ -4,6 +4,8 @@ layout: default
 
 ## Blog
 
+###### [My always-up-to-date guide to reinstalling Fedora](posts/2014-05-17-my-always-up-to-date-guide-to-reinstalling-fedora.md)
+17 May 2014
 ###### [Half a poem](posts/2014-05-04-half-a-poem.md)
 04 May 2014
 ###### [It's time to jump ship: Quit Facebook](posts/2013-06-08-quit-facebook.md)
