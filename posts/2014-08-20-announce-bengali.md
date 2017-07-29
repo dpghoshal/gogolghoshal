@@ -21,5 +21,5 @@ Tahole oi kothai roilo?
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
 
