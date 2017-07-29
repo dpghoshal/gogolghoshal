@@ -15,7 +15,7 @@ What if, hypothetically, I paid all your bills for the rest of your life? What w
 
 Think about it. Take your time, make up your mind, and then please let me know your answer in the comments section.
 
-& please don’t copy/paste your bucket list. I am not asking for a list of events you want done before you die. I am asking you how you want to **live** your life.
+And please don’t copy/paste your bucket list. I am not asking for a list of events you want done before you die. I am asking you how you want to **live** your life.
 
 Think hard.
 
