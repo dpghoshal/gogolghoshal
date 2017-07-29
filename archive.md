@@ -4,6 +4,8 @@ layout: default
 
 ## Blog
 
+###### [It's time to jump ship: Quit Facebook](posts/2013-06-08-quit-facebook.md)
+08 June 2013
 ###### [One big family](posts/2013-06-05-one-big-family.md)
 05 June 2013
 ###### [The move](posts/2013-05-22-the-move.md)
