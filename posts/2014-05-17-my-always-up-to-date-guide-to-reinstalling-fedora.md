@@ -136,4 +136,4 @@ Install LastPass Pocket from website (follow website instructions).
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
