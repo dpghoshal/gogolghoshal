@@ -4,8 +4,8 @@ layout: default
 
 ## Blog
 
-[**\_Bengali\_ Bilet - Pujor Bonus**](posts/2014-10-22-bilet-pujo.md)
-22 October 2014
+[**\_Bengali\_ Bilet - Pujor Bonus**](posts/2014-10-22-bilet-pujo.md)  
+22 October 2014  
 
 [**\_Bengali\_ Bilet - Dwitiyo Kisti**](posts/2014-09-28-bilet-second.md)  
 28 September 2014  
