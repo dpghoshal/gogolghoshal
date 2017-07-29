@@ -29,4 +29,4 @@ So, maybe the bottom-line is: any social media website will, after a specific ti
  
  * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
