@@ -21,4 +21,4 @@ Think hard.
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
