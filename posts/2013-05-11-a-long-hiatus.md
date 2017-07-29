@@ -34,7 +34,7 @@ disqus: y
 </p>
 
 <p style="margin-bottom: 0;" align="LEFT">
-  <span style="font-family: Sans;">Looking back, I realize now what had happened. About two years back (a few days after I wrote my last post), I got heavily involved in a project that lasted more than eight months. Then a </span><span style="font-family: Sans;"><i>relatively less </i></span><span style="font-family: Sans;">hectic project for almost three months. Then I moved to a new city. Amid all these stress that I let build up for more than a year , my habit of regular writing took a hit.</span>
+  <span style="font-family: Sans;">Looking back, I realize now what had happened. About two years back (a few days after I wrote my last post), I got heavily involved in a project that lasted more than eight months. Then a </span><span style="font-family: Sans;"><i>relatively less </i></span><span style="font-family: Sans;">hectic project for almost three months. Then I moved to a new city. Amid all these stress that I let build up for more than a year, my habit of regular writing took a hit.</span>
 </p>
 
 <p style="margin-bottom: 0;" align="LEFT">
