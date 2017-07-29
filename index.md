@@ -4,6 +4,10 @@ layout: default
 
 ## Gogol
 
+<img src="/gogolghoshal/images/GG_foreground.png"
+     alt="" 
+     width="50%">
+
 Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/bengali-fiction), mostly).
 
 Gogol also likes to note down his random thoughts in his [blog](/archive).  
