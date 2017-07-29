@@ -5,7 +5,7 @@ disqus: y
 
 ## \_Bengali\_ Ei hoechhe bhalo
 
-*Note: This post is written in Bengali language, but in Latin script. Henceforth all similar posts will be marked with a \_Bengali\_ tag in the title.*
+*Note: This post is written in Bengali language, but in Latin script. Henceforth all similar posts will be marked with a  \_Bengali\_ tag in the title.*
 
 Ei ta ekta bhalo upay bar korechhi. Aaj theke blog er bangla lekha gulo eibhabei likhbo. 
 
