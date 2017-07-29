@@ -4,6 +4,8 @@ layout: default
 
 ## Blog
 
+###### [The Move](posts/2013-05-22-the-move.md)
+22 May 2013
 ###### [A long hiatus(?)](posts/2013-05-11-a-long-hiatus.md)
 11 May 2013
 ###### [What if I paid all your bills?](posts/2011-06-17-what-if-i-paid-all-your-bills.md)
