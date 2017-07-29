@@ -10,7 +10,7 @@ layout: default
      width="25%">
 </p>
 
-Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/bengali-fiction), mostly).
+Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/gogolghoshal/bengali-fiction), mostly).
 
 Gogol also likes to note down his random thoughts in his [blog](/archive).  
 [You can follow [@gogolghoshal](https://twitter.com/gogolghoshal) or like [Gogol Ghoshal](https://www.facebook.com/GogolGhoshal) to hear about new posts.]
