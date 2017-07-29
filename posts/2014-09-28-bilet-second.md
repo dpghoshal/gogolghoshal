@@ -11,11 +11,11 @@ Khaamkheyali weather. Kodin aagei konkone hawa diye hnaar kaapie dichhilo. Ekhon
 
 Gawto shonibar Montreal er Old Port er dike gechhilam ghurte. Thanda jolo hawa, r durer bridge dekhe - hut kore Kolkatar gongar ghaat mone pore galo - Floatel er chhaad r Belur moth theke onekta erokom e laage. Sekotha bolte ek bondhu mridu apotti janalo - naki khamoka Kolkata k jaate tule dichhi, othoba Montreal k tene namachhi. Shune haasi pelo.
 
-![Montreal_OldPort](/gogolghoshal/images/Montreal_OldPort.jpg)
+![Montreal_OldPort](../images/Montreal_OldPort.jpg)
 
 Okhane hotat dekhlam ek boyosko bhodrolok laaf-jhaap korchhen, r taake ghire ekgada seagull uttejito hoe chechamechi korchhe. Kaachhe gie uki-jhuki marate bhodrolok nijei byapar ta bujhie dilen. Okhane gachher fawl gulo (naam jaante bhule gechhi) mati theke kurie khete Seagull ra kub bhalobase, kintu bechara ra thnot die gota fawl gulo k thik baage aante paare na. Tai bhodrolok juto die pishe pishe fawl bhenge dichhen - r taatei pakhider eto furti. Bujhte pere amrao kaaje lege porlam. Bhodrolok o utsahi chela peye "Come on! Come on! Don't be shy!" bole cheer kore gelen. 3 bondhu miley gaach jhakie fawl fele, tarpor laaf diye diye fawl bhenge, ekgada punno sonchoy kore beer-dorpe ferar poth dhorlam.
 
-![Seagulls](/gogolghoshal/images/Seagulls.jpg)
+![Seagulls](../images/Seagulls.jpg)
 
 Amar abar ghurte berolei khide paye. Map ghete dekha galo ferar pothei Schwartz's porbe - oi dokan er smoked meat khete roj e naki line lege jaye. Go-mangso bhokkhone baki dujon er kinchit apotti chhilo, kintu tobu nimraji hoe saye dilo. Gie dekha galo gujob adou mitthey noy. Praye 15 min line e daranor por dhokar sujog pelam. Soru dokaane lok gij-gij korchhe. Barstool e pither bag somet bosle pechhon die waiter der jatayat er rasta bondho - bag khule pashe mati te rakhte holo. Amader notun dekhe waiter nijei bujhie dilo ki ki order dewa uchit. Koek minute er moddhe khabar o hajir.
 
@@ -33,4 +33,4 @@ Punoscho: Bangla horofe likhchhi na bole onekei hotash hoechhen. Chintar kono ka
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
