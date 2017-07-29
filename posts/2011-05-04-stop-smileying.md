@@ -25,3 +25,7 @@ So I have decided to abstain from using any smileys in my future blog posts. Let
 What do you think?
 
 See you in the comments!
+
+* * *
+
+[Archive](/gogolghoshal/archive)
