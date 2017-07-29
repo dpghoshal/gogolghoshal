@@ -4,8 +4,11 @@ layout: default
 
 ## Blog
 
+[**আমি, স্যার ও চিত্রগুপ্ত**](posts/2016-01-15-chitrogupto.md)  
+15 January 2016
+
 [**শূন্য কে, জন্মদিনে**](posts/2015-11-12-shunyo-publication.md)  
-12 November 2015
+12 November 2015  
 
 [**হুলোর নক্সা**](posts/2015-08-14-hulor-noksha.md)  
 14 August 2015  
