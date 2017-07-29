@@ -4,6 +4,9 @@ layout: default
 
 ## Blog
 
+[**শূন্য কে, জন্মদিনে**](posts/2015-11-12-shunyo-publication.md)  
+12 November 2015
+
 [**হুলোর নক্সা**](posts/2015-08-14-hulor-noksha.md)  
 14 August 2015  
 
