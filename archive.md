@@ -4,7 +4,7 @@ layout: default
 
 ## Blog
 
-###### [Half poem](posts/2014-05-04-half-a-poem.md)
+###### [Half a poem](posts/2014-05-04-half-a-poem.md)
 04 May 2014
 ###### [It's time to jump ship: Quit Facebook](posts/2013-06-08-quit-facebook.md)
 08 June 2013
