@@ -46,7 +46,7 @@ disqus: y
 </p>
 
 <p style="margin-bottom: 0;" align="LEFT">
-  <span style="font-family: Sans;">Earlier, in one of my blog posts, when I spoke about <a href="http://gogolghoshal.com/stop-smileying/">avoiding smileys</a>, I was unknowingly referring to my preference towards long-form writing. For obvious reasons, I cannot hone my long-form writing skills through fb status updates &#8211; however original or frequent they might be.</span>
+  <span style="font-family: Sans;">Earlier, in one of my blog posts, when I spoke about avoiding smileys, I was unknowingly referring to my preference towards long-form writing. For obvious reasons, I cannot hone my long-form writing skills through fb status updates &#8211; however original or frequent they might be.</span>
 </p>
 
 <p style="margin-bottom: 0;" align="LEFT">
