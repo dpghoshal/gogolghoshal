@@ -1,7 +1,6 @@
 ---
 title: Stop Smileying
 layout: default
-permalink: /gogolghoshal/stop-smileying/
 dsq_thread_id: 2641395044
 disqus: y
 ---
