@@ -7,7 +7,7 @@ layout: default
 <p align="center">
   <img src="/gogolghoshal/images/GG_foreground.png"
      alt="" 
-     width="50%">
+     width="25%">
 </p>
 
 Gogol Ghoshal fancies himself as a writer (of [Bengali fiction](/bengali-fiction), mostly).
