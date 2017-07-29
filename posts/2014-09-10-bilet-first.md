@@ -24,4 +24,4 @@ Shesh korar aage jol er kotha ta bole ni. Ekhane tap water tai paan kora jaye. A
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
