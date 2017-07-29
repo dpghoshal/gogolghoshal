@@ -11,9 +11,9 @@ Likhbo likhbo koreo r hoe uthchhe na. Edike pujo shesh hoe Kalipujo eshe galo pr
 
 Ebar prothombar pujo te kolkatar baire aachi. Tobu besh bhaloi kaatlo kintu. Ekhankar baangali dada didi der saathe double pujo porikroma holo - ekbar sothik din-khon mene, r ekbar Thanksgiving er long weekend e "made easy" style e. 
 
-![Pujo_1](/gogolghoshal/images/pujo_1.jpg "Sonaton Hindu Temple er pujo (photo courtesy: Debika di)")
+![Pujo_1](../images/pujo_1.jpg "Sonaton Hindu Temple er pujo (photo courtesy: Debika di)")
 
-![Pujo_2](/gogolghoshal/images/pujo_2.jpg "Indian Bengali Association er pujo")
+![Pujo_2](../images/pujo_2.jpg "Indian Bengali Association er pujo")
 
 Kolkatar pujor saathe tulona tanar maane hoy na, tai osober moddhe jachhi na. Tobe - onjoli, bhog, khichuri, adda, 29, lyaad - sob milie pujo pujo amej ta sholo aana peyechhi.
 
@@ -30,14 +30,14 @@ Khete ato byasto chhilam j chhobi tolar fursot paini. Dekhlam Icehouse thala fal
 
 \[**Update:** Icehouse er khabar er chhobi dei ni bole onek kotha shunte hoechhe bondhuder kaachhe. Tai baddho hoe ei shukrobar raate Deepaboli palon korte abar hana dilam Icehouse e (Ebar khali pork ribs). Tachhara nishtha bhore mangso na khele Maa Kaali raag korte paaren, sei bhoy tao chhilo.\]
 
-![Icehouse_PorkRibs](/gogolghoshal/images/icehouse.jpg "Icehouse er Pork Ribs")
+![Icehouse_PorkRibs](../images/icehouse.jpg "Icehouse er Pork Ribs")
 
 Edike abar gawto koekdin e rastaghaat er chehara paalte gachhe. Fall color byapar ta addin calendar er patatei dekhe eschhi khali. Kintu chakkhush na dekhle bhol-bodol ta thik bojhano jabe na. Kodin aager sobuj gachh gulo ekhon hoy pata jhorie khangra kathi, noyto laal holud komolaye mukh dhekechhe. R rasta jure khali laal holud Maple er gaalicha.
 
-![Fall](/gogolghoshal/images/fall.jpg "Fall er bhol-bodol")
+![Fall](../images/fall.jpg "Fall er bhol-bodol")
 
 * * *
 
-[Archive](/gogolghoshal/archive)
+[Archive](../archive)
 
 
