@@ -4,6 +4,8 @@ layout: default
 
 ## Blog
 
+###### [\_Bengali\_ Ei hoechhe bhalo](posts/2014-08-20-announce-bengali.md)
+20 August 2014
 ###### [My always-up-to-date guide to reinstalling Fedora](posts/2014-05-17-my-always-up-to-date-guide-to-reinstalling-fedora.md)
 17 May 2014
 ###### [Half a poem](posts/2014-05-04-half-a-poem.md)
