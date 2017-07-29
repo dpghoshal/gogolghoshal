@@ -56,3 +56,7 @@ disqus: y
 <p style="margin-bottom: 0;" align="LEFT">
   <span style="font-family: Sans;">And finally, my dear Readers. we come to the conclusion of this post. The topic of this post was originally supposed to be something else entirely, but since I have forgotten what &#8211; I guess it wasn’t that important. In any case, it can always find its way to one of my future posts.</span>
 </p>
+
+* * *
+
+[Archive](/gogolghoshal/archive)
