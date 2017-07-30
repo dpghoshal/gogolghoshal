@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## আমি, স্যার ও চিত্রগুপ্ত
