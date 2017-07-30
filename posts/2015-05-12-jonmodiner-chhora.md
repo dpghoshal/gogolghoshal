@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## জন্মদিনের ছড়া
