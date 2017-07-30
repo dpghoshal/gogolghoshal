@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## One Big Family
