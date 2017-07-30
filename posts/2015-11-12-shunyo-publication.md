@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## শূন্য কে, জন্মদিনে
