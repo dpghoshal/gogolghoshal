@@ -2,7 +2,7 @@
 layout: default
 dsq_thread_id:
   - 2641398448
-disqus: y
+comments: true
 ---
 
 ## What if I paid all your bills?
