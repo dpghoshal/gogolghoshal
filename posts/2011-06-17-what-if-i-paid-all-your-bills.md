@@ -1,7 +1,5 @@
 ---
 layout: default
-dsq_thread_id:
-  - 2641398448
 comments: true
 ---
 
