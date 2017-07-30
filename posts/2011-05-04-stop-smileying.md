@@ -1,7 +1,7 @@
 ---
 layout: default
 dsq_thread_id: 2641395044
-disqus: y
+comments: true
 ---
 
 ## Stop Smileying
