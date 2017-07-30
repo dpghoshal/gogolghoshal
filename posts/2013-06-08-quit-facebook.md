@@ -2,7 +2,7 @@
 layout: default
 dsq_thread_id:
   - 2641355192
-disqus: y
+comments: true
 ---
 
 ## It's time to jump ship: Quit Facebook
