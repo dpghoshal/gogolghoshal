@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## My always-up-to-date guide to reinstalling Fedora
