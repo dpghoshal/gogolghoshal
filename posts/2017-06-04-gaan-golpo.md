@@ -1,6 +1,6 @@
 ---
 layout: default
-disqus: y
+comments: true
 ---
 
 ## অ্যাপার্টমেন্ট ৬১
