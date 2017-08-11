@@ -4,7 +4,7 @@ layout: default
 
 ## Blog
 
-[**ফ্রান্স - ১**](posts/2017-07-09-France-1.md)
+[**ফ্রান্স - ১**](posts/2017-07-09-France-1.md)  
 09 July 2017
 
 [**অ্যাপার্টমেন্ট ৬১**](posts/2017-06-04-gaan-golpo.md)  
