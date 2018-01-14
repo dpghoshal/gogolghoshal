@@ -4,6 +4,9 @@ layout: default
 
 ## Blog
 
+[**Happy New Year 2018**](posts/2017-12-30-happy-new-year.md)
+31 December 2017
+
 [**ফ্রান্স - ৭**](posts/2017-07-15-France-7)  
 15 July 2017
 
