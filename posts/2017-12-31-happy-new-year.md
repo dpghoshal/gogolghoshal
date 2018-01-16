@@ -5,7 +5,7 @@ comments: true
 
 ## Happy New Year 2018 
 
-No matter how cold it gets (wind-chill about -25°C), you can always find warmth in good company.
+No matter how cold it gets (about -25°C), you can always find warmth in good company.
 Happy new year! :)
 
 ![Happy New Year](../images/HNY.jpg "December 30, 2017 near Lake Ontario, Toronto")
