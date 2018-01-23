@@ -1,6 +1,10 @@
 ---
 layout: default
 comments: true
+title: Stop Smileying
+date: 2011-05-04
+permalink: 2011-05-04-stop-smileying
+published: true
 ---
 
 ## Stop Smileying
