@@ -1,7 +1,7 @@
 ---
 layout: default
 comments: true
-title: \_Bengali\_ Ei hoechhe bhalo
+title: _Bengali_ Ei hoechhe bhalo
 date: 2014-08-20
 permalink: /posts/2014-08-20-announce-bengali
 published: true
