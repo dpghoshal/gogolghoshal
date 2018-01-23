@@ -1,7 +1,7 @@
 ---
 layout: default
 comments: true
-title: It's time to jump ship: Quit Facebook
+title: It's time to jump ship
 date: 2013-06-08-quit-facebook
 permalink: /posts/2013-06-08-quit-facebook
 published: true
