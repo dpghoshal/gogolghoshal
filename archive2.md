@@ -15,6 +15,8 @@ layout: default
   {% endfor %}
 </ul>
 
+
+<!---
 [**Happy New Year 2018**](posts/2017-12-31-happy-new-year)  
 31 December 2017
 
@@ -95,6 +97,8 @@ layout: default
 
 [**Stop smileying**](posts/2011-05-04-stop-smileying)  
 04 May 2011
+-->
+
 
 * * *
 
