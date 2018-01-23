@@ -7,7 +7,7 @@ permalink: /posts/2013-06-08-quit-facebook
 published: true
 ---
 
-## It's time to jump ship: Quit Facebookk
+## It's time to jump ship: Quit Facebook
 
 *Update: I have grudgingly accepted FB as a necessary evil, and hence now I do have a Facebook presence. However, I make it a point to scrub ALL my FB activity once every month  - call it my way of keeping the evil at bay.*
 
