@@ -1,13 +1,13 @@
 ---
 layout: default
 comments: true
-title: It's time to jump ship
+title: It's time to jump ship&#58; Quit Facebook
 date: 2013-06-08-quit-facebook
 permalink: /posts/2013-06-08-quit-facebook
 published: true
 ---
 
-## It's time to jump ship: Quit Facebook
+## It's time to jump ship: Quit Facebookk
 
 *Update: I have grudgingly accepted FB as a necessary evil, and hence now I do have a Facebook presence. However, I make it a point to scrub ALL my FB activity once every month  - call it my way of keeping the evil at bay.*
 
