@@ -20,8 +20,8 @@ Gogol is a hardcore foodie and a cinephile. (He’s also a Quentin Tarantino fan
 Gogol is a tattoo aficionado. It is said that in a hypothetical prison war, he is most likely to join the gang with the craziest tattoos. <br>
 [When asked for confirmation, Gogol refused to comment on this.]
 
-Gogol tries to maintain a minimalist lifestyle.
-<!--- Yes, that means he secretly gets a little annoyed every time someone gifts him something. <br>
+<!--- Gogol tries to maintain a minimalist lifestyle.
+Yes, that means he secretly gets a little annoyed every time someone gifts him something. <br>
 [But if you still insist on giving him something, maybe a good ebook ([DRM-free](http://www.defectivebydesign.org/what_is_drm_digital_restrictions_management), of course) is your best option.] -->
 
 Gogol likes to think that someday he would have enough money to travel around the globe. <br><br>
