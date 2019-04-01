@@ -9,7 +9,7 @@ published: true
 
 ## Taalsari Experiments 
 
-[Album link](https://www.icloud.com/sharedalbum/#B0YGWZuqD0kWV0u)
+[Photos](https://www.icloud.com/sharedalbum/#B0YGWZuqD0kWV0u) shot & edited on iPhone Xs, at Taalsari, Odisha, India.
 
 Inspiration: [Soumik](https://www.instagram.com/silenteyes._.photography/)
 
