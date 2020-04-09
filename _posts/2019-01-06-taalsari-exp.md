@@ -11,7 +11,7 @@ published: true
 
 [Photos](https://www.icloud.com/sharedalbum/#B0YGWZuqD0kWV0u) shot & edited on iPhone Xs, at Taalsari, Odisha, India.
 
-Inspiration: [Soumik](https://www.instagram.com/silenteyesphotography_official/)
+Inspiration: Soumik
 
 * * *
 
