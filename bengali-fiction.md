@@ -14,6 +14,4 @@ Have a look:
 * [Baatik](downloads/Baatik.pdf)
 * [Mohaloya](downloads/Mohaloya.pdf)
 
-Follow [@gogolghoshal](https://twitter.com/gogolghoshal) on Twitter or like [Gogol Ghoshal](https://www.facebook.com/GogolGhoshal) on Facebook to hear about new stories
-
 [Back](./)
